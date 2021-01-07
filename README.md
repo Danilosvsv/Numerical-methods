@@ -4,6 +4,7 @@ This repository contains several numerical methods, with graphics and examples. 
 
 - Numpy
 - Matplotlib
+- Sympy
 
 
 
